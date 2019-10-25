@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-int fibonacci(int);    /* Declaration of Function Fibonacci */
+int fibonacci(int);    /* Declaration of Function fibonacci */
 
 int main(void)
 {
@@ -18,7 +18,7 @@ return 0;
 }
 
 
-int fibonacci(int n)
+int fibonacci(int n)            /*Definition of function fibonacci*/
 {
 if(n>0)
 {
